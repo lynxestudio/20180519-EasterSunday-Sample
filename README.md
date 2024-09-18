@@ -12,12 +12,12 @@ The following code calculates the easter sunday for a given year:
 </p>
 <div><b>Fig 1. Running the sample, output 1</b></div><br>
 <div>
-<IMG src="picture_library/easter/easter1.png">
+<IMG src="images/easter1.png">
 </div><br>
 <div><b>Fig 2. Running the sample, output 2</b></div><br>
 <div>
-<IMG src="picture_library/easter/easter2.png">
+<IMG src="images/easter2.png">
 </div><br>
 <div><b>Fig 3. Running the sample, output 3</b></div><br>
 <div>
-<IMG src="picture_library/easter/easter3.png">
+<IMG src="images/easter3.png">
