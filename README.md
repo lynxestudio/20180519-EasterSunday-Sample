@@ -1,7 +1,7 @@
 # How to calculate the date of the Easter Sunday.
 
 <p align="justify">
-Easter is the celebration of Christ's resurrection from the dead, which is also comparable to Christmas. It is an important religious festivity on the Continent, and its traditions are not very different from those in other European countries.
+Easter is the celebration of Christ's resurrection from the dead, comparable to Christmas, it is an important religious festivity on the Continent, and its traditions are not very different from those in other European countries.
 </p>
 <p align="justify">
 It is celebrated on Sunday, and marks the end of Holy Week, the end of Lent, the last day of the Easter Triduum (Holy Thursday, Good Friday and Easter Sunday), and is the beginning of the Easter season of the liturgical year.
